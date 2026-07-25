@@ -14,4 +14,5 @@ const card = (props) => {
   )
 }
 
-export default card
+export default card    //25 july
+
